@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Model/Blade_girl/Demo_Scene/Blade_Girl_NPC.unity
+  isLoaded: 1
+  isActive: 1
